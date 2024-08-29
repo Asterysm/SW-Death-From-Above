@@ -11,8 +11,12 @@
             "id": "62c9c09c053a46fa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story/Background (between Ep. VI & VII).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story/Background (between Ep. VI & VII).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Story/Background (between Ep. VI & VII).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Story/Background (between Ep. VI & VII).md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25a04071f5e7cd6d",
+  "active": "62c9c09c053a46fa",
   "lastOpenFiles": [
     "DEATH FROM WITHIN.md",
     "NPCs/Jar-Jar Binks.md",
