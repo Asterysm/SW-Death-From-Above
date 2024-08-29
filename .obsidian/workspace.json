@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45df995da5470550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THE CONCEPT OF DUCKS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episode VII/Background (between Ep. VI & VII).md",
+                "file": "THE CONCEPT OF DUCKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Episode VII/Background (between Ep. VI & VII).md",
+                "file": "THE CONCEPT OF DUCKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Episode VII/Background (between Ep. VI & VII).md"
+                "file": "THE CONCEPT OF DUCKS.md"
               }
             }
           }
@@ -155,9 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0420f116f0b7f38",
+  "active": "45df995da5470550",
   "lastOpenFiles": [
     "Episode VII/Background (between Ep. VI & VII).md",
+    "THE CONCEPT OF DUCKS.md",
     "Episode VII",
     "Episode VII/The Last Jed.md",
     "Episode VII/Synopsis/Untitled.md",
