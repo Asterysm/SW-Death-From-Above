@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Background (between Ep. VI & VII).md",
+                "file": "Organisations/Religious/Jedi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Background (between Ep. VI & VII).md",
+                "file": "Organisations/Religious/Jedi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/Background (between Ep. VI & VII).md",
+                "file": "Organisations/Religious/Jedi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Background (between Ep. VI & VII).md"
+                "file": "Organisations/Religious/Jedi.md"
               }
             }
           }
@@ -146,32 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25a04071f5e7cd6d",
+  "active": "62c9c09c053a46fa",
   "lastOpenFiles": [
-    "FantasyFlight Game System/Character Creation/Untitled",
+    "Organisations/Religious/The Cult of Vader.md",
+    "Organisations/Military/The New Republic Defense Forces.md",
+    "NPCs/Darth Vader.md",
+    "NPCs/Jar Jar Binks.md",
+    "NPCs/Leia Skywalker Organa Solo.md",
+    "Story/Background (between Ep. VI & VII).md",
+    "FantasyFlight Game System/Character Creation/Backgrounds/Outer Rim Rogue",
+    "FantasyFlight Game System/Character Creation/Backgrounds/Force User",
+    "FantasyFlight Game System/Character Creation/Backgrounds/Rebel Alliance",
+    "FantasyFlight Game System/Character Creation/Untitled 1",
+    "FantasyFlight Game System/Character Creation/Backgrounds",
     "FantasyFlight Game System/Character Creation",
     "FantasyFlight Game System",
     "DEATH FROM WITHIN.md",
-    "NPCs/Jar-Jar Binks.md",
-    "Story/Background (between Ep. VI & VII).md",
-    "Organisations/Military/The New Republic Defense Forces.md",
     "Organisations/Religious/Jedi.md",
     "Organisations/Religious/Sith.md",
-    "Organisations/Religious/The Cult of Vader.md",
-    "NPCs/Darth Vader.md",
     "Organisations/Governmental & Bureaucratic/The Galactic Council.md",
     "DEATH FROM WITHIN",
     "Story",
     "Organisations/Military",
-    "Organisations/Religious",
-    "Organisations/Governmental & Bureaucratic",
     "NPCs/Luke Skywalker.md",
-    "NPCs/Leia Skywalker Organa Solo.md",
     "Maps & Diagrams/Map of The Galaxy (TROS Visual Dictionary).png",
     "Maps & Diagrams/Untitled.md",
-    "The Galaxy (Far Far Away)",
-    "Organisations",
-    "Maps & Diagrams",
     "THE CONCEPT OF DUCKS.md",
     "Episode VII/The Last Jed.md",
     "Episode VII/Synopsis/Untitled.md",
