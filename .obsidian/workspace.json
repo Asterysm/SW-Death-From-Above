@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Leia Skywalker Organa Solo.md",
+                "file": "The Galaxy (Far Far Away)/NPCs/Leia Skywalker Organa Solo.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/Governmental & Bureaucratic/The Galactic Council.md",
+                "file": "The Galaxy (Far Far Away)/Organisations/Governmental & Bureaucratic/The Galactic Council.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/Religious/The Cult of Vader.md",
+                "file": "The Galaxy (Far Far Away)/NPCs/Jar-Jar Binks.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/Religious/The Cult of Vader.md",
+                "file": "The Galaxy (Far Far Away)/NPCs/Jar-Jar Binks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisations/Religious/The Cult of Vader.md",
+                "file": "The Galaxy (Far Far Away)/NPCs/Jar-Jar Binks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisations/Religious/The Cult of Vader.md"
+                "file": "The Galaxy (Far Far Away)/NPCs/Jar-Jar Binks.md"
               }
             }
           }
@@ -173,32 +173,35 @@
   },
   "active": "4814762d08960e88",
   "lastOpenFiles": [
-    "Organisations/Military/The New Republic Defense Forces.md",
-    "The True Galactic People's Collective.md",
-    "Organisations/Religious/The Cult of Vader.md",
-    "Organisations/Governmental & Bureaucratic/The Galactic Council.md",
-    "NPCs/Han Solo.md",
-    "NPCs/Leia Skywalker Organa Solo.md",
-    "Story/Background (between Ep. VI & VII).md",
-    "NPCs/Jar-Jar Binks.md",
-    "NPCs/Luke Skywalker.md",
     "Maps & Diagrams/Map of The Galaxy (TROS Visual Dictionary).png",
-    "NPCs/Darth Vader.md",
+    "Story/Bullshite.md",
+    "Story/EPISODE STRUCTURE.md",
+    "DEATH FROM WITHIN",
+    "COST OF VICTORY",
+    "COST OF VICTORY/Episode 7",
+    "COST OF VICTORY/Episode 8",
+    "COST OF VICTORY/Episode 9",
+    "DEATH FROM WITHIN/Episode XII",
+    "DEATH FROM WITHIN/Episode XI",
+    "DEATH FROM WITHIN/Episode X",
+    "RANDOM BULLSHIT.md",
+    "The Galaxy (Far Far Away)/NPCs/Leia Skywalker Organa Solo.md",
+    "The Galaxy (Far Far Away)/NPCs/Jar-Jar Binks.md",
+    "The Galaxy (Far Far Away)/NPCs/Luke Skywalker.md",
+    "The Galaxy (Far Far Away)/NPCs/Darth Vader.md",
+    "The Galaxy (Far Far Away)/NPCs/Han Solo.md",
+    "The Galaxy (Far Far Away)/Organisations/Governmental & Bureaucratic/The True Galactic People's Collective (WIP).md",
+    "NPCs/Jar Jar Binks.md",
+    "The Galaxy (Far Far Away)/Organisations/Religious/The Cult of Vader.md",
+    "The Galaxy (Far Far Away)/Organisations/Military/The New Republic Defense Forces.md",
+    "The Galaxy (Far Far Away)/Organisations/Governmental & Bureaucratic/The Galactic Council.md",
     "DEATH FROM WITHIN.md",
-    "Organisations/Religious/Jedi.md",
-    "Organisations/Religious/Sith.md",
+    "The Galaxy (Far Far Away)/Organisations/Religious/Jedi.md",
+    "The Galaxy (Far Far Away)/Organisations/Religious/Sith.md",
     "DEATH FROM WITHIN",
     "Story",
-    "Organisations/Military",
-    "Organisations/Religious",
-    "Organisations/Governmental & Bureaucratic",
     "Maps & Diagrams/Untitled.md",
-    "The Galaxy (Far Far Away)",
-    "Organisations",
-    "Maps & Diagrams",
-    "NPCs",
     "THE CONCEPT OF DUCKS.md",
-    "Episode VII",
     "Episode VII/The Last Jed.md",
     "Episode VII/Synopsis/Untitled.md",
     "Episode VII/Opening Crawl.md",
