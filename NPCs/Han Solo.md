@@ -1,0 +1,2 @@
+- helps scavenge death star parts 
+- has to help Leia go into hiding

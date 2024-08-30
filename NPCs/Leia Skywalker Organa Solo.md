@@ -1,0 +1,4 @@
+- Senator for the New Republic 
+- Constructs a space station out of death star parts known as "Breha Base"
+- Choice for a chancellor to oppose anti-empirical sentiment
+- After it is found out she's Darth Vader's daughter she goes into hiding.

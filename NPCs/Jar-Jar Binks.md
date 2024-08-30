@@ -1,0 +1,3 @@
+Previously aligned with emperor Palpatine, Jar-Jar spent their time during the reign of the empire as a manservant. This was until he was fed into a strange machine as one of many experiments of Palpatine, one of his many backups should his body fail. This failed miserably, with the darkside parasite placed within Binks enhancing their pre-existing force abilities, but causing them severe mental deterioration. 
+
+They were banished to 
